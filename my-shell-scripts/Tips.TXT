@@ -1,0 +1,7 @@
+# #!/bin/bash
+# Tips
+
+# https://aurelio.net/shell/canivete/
+# chmod +x exercicio.sh
+# ls -lag
+# ./exercicio.sh
