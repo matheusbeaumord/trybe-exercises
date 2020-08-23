@@ -1,3 +1,3 @@
 #!/bin/bash
 PHRASE="Shell Script com variáveis é demais!"
-  echo $PHRASE
+  echo $PHRASEVou ter muito sucesso na programação!
