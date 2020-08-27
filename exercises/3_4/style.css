@@ -1,0 +1,11 @@
+ nav {
+    border-bottom: 2px solid black;
+}
+.menu {
+    display: inline-block;
+}
+
+ul li{
+    list-style-type: none;
+    margin-right: 50px;
+}
