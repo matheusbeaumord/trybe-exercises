@@ -1,6 +1,8 @@
 let  a ;
 let cavalo = 'Ande em L';
-a = 'cAVaLO'.toLowerCase;
 
-
-console.log(cavalo);
+if (a = 'cAVaLO'.toLowerCase){
+    console.log(cavalo)
+} else {
+    console.log('Essa peça nao existe!')
+}
