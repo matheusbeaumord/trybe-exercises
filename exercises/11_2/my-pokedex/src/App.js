@@ -10,7 +10,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <img class='title' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2000px-International_Pok%C3%A9mon_logo.svg.png' alt='Title' />
-        <Pokedex games={data} />
+        <Pokedex pokemon={data} />
       </div>
     );
   }
